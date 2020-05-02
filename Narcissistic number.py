@@ -38,4 +38,4 @@ else:
     print("不是水仙花数")
 #主体程序
 
-os.system('pause')#暂停程序
+os.system('pause')#暂停程序,调用os
